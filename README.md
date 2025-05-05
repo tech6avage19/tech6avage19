@@ -1,14 +1,22 @@
 ### Hi there 👋
 
-<!--
-**tech6avage19/tech6avage19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cybersecurity Portfolio – Joshua Birdine
 
-Here are some ideas to get you started:
+Welcome to my cybersecurity growth journey. This repo documents my hands-on labs, learning projects, daily logs, and certification prep.
 
-- 🔭 I’m currently working on getting my bachelors in Cybersecurity.
-- 🌱 I’m currently learning networking, cybersecurity and AI.
-- 👯 I’m looking to collaborate on youtube, internships and other personal projects.
-- 🤔 I’m looking for help with AI.
-- 💬 Ask me about cooking.
-- ⚡ Fun fact: Worked in the restuarant industry for over 10+ years.
--->
+## About Me
+Aspiring cybersecurity professional currently studying for Security+ (701). Passionate about network defense, ethical hacking, and privacy.
+
+## Active Projects
+- **Azure Vulnerability Scanning** – Setting up and scanning virtual environments
+- **Identity Tracker App** – Concept for personal privacy tracking
+- **Security+ Study Logs** – Flashcards, notes, and practice quizzes
+
+## How to Navigate
+- `/daily-journal` – Daily learning logs
+- `/practice-labs` – Vulnerability scanning, Nmap, BurpSuite, etc.
+- `/security+_study_notes` – Certification notes and resources
+- `/cheatsheets` – Quick-reference tools
+
+Stay tuned! I update this daily or weekly.
+
