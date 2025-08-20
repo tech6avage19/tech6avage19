@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Joshua Birdine 👋</h1>
 <p align="center">
-  Cybersecurity Consultant | AI Builder | Dev in Progress <br>
-  🔐 Building SovereignOS, ZeeT Search, and Chefinite.
+  Bruteforcing my way into cybersecurity | 50+ hands-on projects | Sharing the grind daily
 </p>
 
 ---
