@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 WGU Cybersecurity student passionate about **real-world, hands-on labs**  
-- 🔐 Built **50+ security projects** covering Active Directory, SIEM, detection engineering, and offensive/defensive tactics  
+- 🔐 Building **50+ security projects** covering Active Directory, SIEM, detection engineering, and offensive/defensive tactics  
 - 🍳 Former chef of 10+ years → now cooking up secure systems instead of meals  
 - ⚡ Career focus: **SOC Analyst → Security Engineer → Red Team**  
 
